@@ -18,3 +18,4 @@ This resource pack is a "Honyagana" style pack for Minecraft Java 1.21.11.
 - Font: **851チカラヨワク**
 - Author/Copyright: フォント作者・配布元に帰属
 - Author/Copyright (EN): Belongs to the font author/distributor.
+- Terms: https://pm85122.onamae.jp/851fontTerm.html
