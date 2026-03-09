@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "ttf",
-      "file": "minecraft:851CHIKARA-YOWAKU_002.ttf",
+      "file": "minecraft:font/851CHIKARA-YOWAKU_002.ttf",
       "size": 11,
       "oversample": 2,
       "shift": [
