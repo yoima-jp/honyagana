@@ -88,3 +88,7 @@ Instead of only changing names or adding small UI tweaks, this pack gives your i
 - Font: `851チカラヨワク`
 - Font file: `851CHIKARA-YOWAKU_002.ttf`
 - All rights to the font belong to its original author/distributor
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE).
