@@ -5,13 +5,13 @@ This resource pack is a "Honyagana" style pack for Minecraft Java 1.21.11.
 
 ## 同梱フォント
 
-- フォント名: `851チカラヨワク` (`851CHIKARA-YOWAKU_002.ttf`)
-- 配置先: `assets/minecraft/font/851CHIKARA-YOWAKU_002.ttf`
+- フォント名: `851チカラヨワク` (`851chikara-yowaku_002.ttf`)
+- 配置先: `assets/minecraft/font/851chikara-yowaku_002.ttf`
 
 ## Included Font
 
-- Font name: `851チカラヨワク` (`851CHIKARA-YOWAKU_002.ttf`)
-- Location: `assets/minecraft/font/851CHIKARA-YOWAKU_002.ttf`
+- Font name: `851チカラヨワク` (`851chikara-yowaku_002.ttf`)
+- Location: `assets/minecraft/font/851chikara-yowaku_002.ttf`
 
 ## Credit
 

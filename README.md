@@ -86,12 +86,12 @@ Instead of only changing names or adding small UI tweaks, this pack gives your i
 ## Credits
 
 - Font: `851チカラヨワク`
-- Font file: `851CHIKARA-YOWAKU_002.ttf`
+- Font file: `851chikara-yowaku_002.ttf`
 - Font copyright belongs to its original author/distributor
 - Font terms: https://pm85122.onamae.jp/851fontTerm.html
 
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE).
-The bundled font (`851CHIKARA-YOWAKU_002.ttf`) is not covered by MIT and follows the original author's terms.
+The bundled font (`851chikara-yowaku_002.ttf`) is not covered by MIT and follows the original author's terms.
 See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for details.
