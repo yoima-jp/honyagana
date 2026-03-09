@@ -3,7 +3,7 @@
 ## Included Font
 
 - Name: `851チカラヨワク`
-- File: `851CHIKARA-YOWAKU_002.ttf` and `Honyagana/fonts/851CHIKARA-YOWAKU_002.ttf`
+- File: `Honyagana/assets/minecraft/font/851CHIKARA-YOWAKU_002.ttf`
 - Author/Distributor: `8:51:22 pm` (配布元作者)
 - Official pages:
   - Font list: https://pm85122.onamae.jp/85122font.html
