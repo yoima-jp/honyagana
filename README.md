@@ -74,7 +74,7 @@ Instead of only changing names or adding small UI tweaks, this pack gives your i
 
 ## Compatibility
 
-- Minecraft Java Edition `1.21.11`
+- Minecraft Java Edition `26.1`
 - Resource pack only
 
 ## Installation
@@ -82,6 +82,11 @@ Instead of only changing names or adding small UI tweaks, this pack gives your i
 1. Download the released resource pack.
 2. Put it into your `resourcepacks` folder.
 3. Enable `Honyagana` from Minecraft's resource pack menu.
+
+## Version-up skill
+
+When updating to a new Minecraft version, follow [`skills/minecraft-version-up/SKILL.md`](skills/minecraft-version-up/SKILL.md).
+It documents the vanilla language diff check, new item asset handling, and `pack.mcmeta` updates.
 
 ## Credits
 

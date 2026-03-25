@@ -1,7 +1,7 @@
 # Honyagana Resource Pack
 
-このリソースパックは Minecraft Java 1.21.11 向けの「ほにゃがな」表示用パックです。
-This resource pack is a "Honyagana" style pack for Minecraft Java 1.21.11.
+このリソースパックは Minecraft Java 26.1 向けの「ほにゃがな」表示用パックです。
+This resource pack is a "Honyagana" style pack for Minecraft Java 26.1.
 
 ## 同梱フォント
 
@@ -19,3 +19,7 @@ This resource pack is a "Honyagana" style pack for Minecraft Java 1.21.11.
 - Author/Copyright: フォント作者・配布元に帰属
 - Author/Copyright (EN): Belongs to the font author/distributor.
 - Terms: https://pm85122.onamae.jp/851fontTerm.html
+
+## Version-up skill
+
+Minecraft バージョン更新時の手順は [`skills/minecraft-version-up/SKILL.md`](../skills/minecraft-version-up/SKILL.md) を参照してください。
